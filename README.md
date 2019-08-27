@@ -1,5 +1,7 @@
 # Mongoose for Eternity
 
+![](https://avatars0.githubusercontent.com/u/51820096?s=200&v=4)
+
 ### Eternity
 
 Create a `Student` Schema using mongoose and populate it with our Eternity students using the array below.
